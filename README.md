@@ -1,3 +1,3 @@
-# privacy-policies-collection
+# Privacy Policies Collection
 
-Collection of privacy policies used by different sites.
+Collection of privacy policies used by different sites. Collected in education purposes.
