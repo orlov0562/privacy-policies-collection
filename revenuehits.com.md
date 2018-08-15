@@ -149,7 +149,7 @@ In accordance with our routine record keeping, we may delete certain records tha
 
 In addition, you should be aware that it is not always possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons.
 
-6) Managing Cookies (“Opt-Out”) or Unsubscribing
+### 6) Managing Cookies (“Opt-Out”) or Unsubscribing
 If you do not want to receive interest-based ads displayed by us based on our use of cookies, you can disable delete them.Most browsers allow you to refuse to accept cookies and to delete cookies. The methods for doing so vary from browser to browser, and from version to version. You can however obtain up-to-date information about blocking and deleting cookies via these links:
 - (a) https://support.google.com/chrome/answer/95647?hl=en (Chrome);
 - (b) https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences
